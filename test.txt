@@ -1,1 +1,2 @@
 hello git
+init add and comiit
