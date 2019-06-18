@@ -5,3 +5,4 @@ a week later
 now i'm in the new dev, not in master, master modefied six line two.
 now i'm in the new dev, not in master, add a new model in feature1.
 try no fast forward mode
+bug is finded and processed
